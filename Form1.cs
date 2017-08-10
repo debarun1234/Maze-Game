@@ -1,3 +1,6 @@
+//This code is only used for apps which are meant to be done in C# language.
+// Made in Visual Studio 2017 RC.
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
